@@ -43,20 +43,20 @@ The script:
 
 ## 🛠 Requirements
 
-    Windows OS
+  - Windows OS
 
-    Python 3.x
+  - Python 3.x
 
 ## 🙋‍♂️ Author
 
-    TR4IS
+  - TR4IS
 
-    GitHub: @tr4is
+  - GitHub: @tr4is
 
 ## 📝 To-Do / Ideas
 
-    Add config file support (custom categories)
+    Add config file support (custom categories) - working on it !
 
-    Schedule as a daily background task
+    Schedule as a daily background task  - 
 
-    Build a simple GUI
+    Build a simple GUI -
