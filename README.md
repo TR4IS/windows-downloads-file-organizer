@@ -33,9 +33,9 @@ The script:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/windows-file-organizer.git
-   cd windows-file-organizer
+   git clone https://github.com/tr4is/windows-downloads-file-organizer.git
+   cd windows-downloads-file-organizer
 2. Run the Script
   ```bash
-  python files.py
+   python files.py
 
