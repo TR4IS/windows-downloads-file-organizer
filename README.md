@@ -35,3 +35,7 @@ The script:
    ```bash
    git clone https://github.com/your-username/windows-file-organizer.git
    cd windows-file-organizer
+2. Run the Script
+  ```bash
+  python files.py
+
