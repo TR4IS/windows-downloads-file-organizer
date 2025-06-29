@@ -39,3 +39,24 @@ The script:
    ```bash
    python files.py
 
+💡 Note: You must be on Windows and have Python installed.
+
+## 🛠 Requirements
+
+    Windows OS
+
+    Python 3.x
+
+## 🙋‍♂️ Author
+
+    TR4IS
+
+    GitHub: @tr4is
+
+## 📝 To-Do / Ideas
+
+    Add config file support (custom categories)
+
+    Schedule as a daily background task
+
+    Build a simple GUI
