@@ -35,9 +35,11 @@ The script:
    ```bash
    git clone https://github.com/tr4is/windows-downloads-file-organizer.git
    cd windows-downloads-file-organizer
+
 2. Run the Script:
    ```bash
    python files.py
+
 3. Or simply click the Python file and enjoy.
 
 💡 Note: You must be on Windows and have Python installed.
