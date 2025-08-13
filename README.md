@@ -49,8 +49,9 @@ The script:
 
 ## 📝 To-Do / Ideas
 
-    Add config file support (custom categories) - working on it !
+  ~~Build a simple GUI~~ - Done✔
 
-    Schedule as a daily background task  - 
+  Schedule as a daily background task  - 
 
-    Build a simple GUI -
+  Add config file support (custom categories) - working on it !
+
